@@ -1,7 +1,11 @@
 # ny
 New Yahoo!
 
-This is my New Yahoo! implementation, a project started in mid 2007 and a little demo can be seen at https://www.youtube.com/watch?v=qcP4hzTbonc, but was discontinued shortly thereafter.
+This is my New Yahoo! implementation, a project started in mid 2007 in order to reproduce the multiplayer online game server of the then Yahoo! Games, but was discontinued shortly thereafter. There is only two games from Yahoo! Games implemented in this project, chequers and pool, but only chequers is functional.
+
+A little demo can be seen at https://www.youtube.com/watch?v=qcP4hzTbonc.
+
+Remembering this project was discontinued for over ten years, possible bugs may be present, then use at your own risk.
 
 The main language used is Java and the editor used was Eclipse.
 
