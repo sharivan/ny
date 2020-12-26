@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>C:\Documents and Settings\Saddam Hussein\Desktop\ny.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/ny</webPath>
+</tomcatProjectProperties>
