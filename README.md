@@ -11,8 +11,8 @@ The main language used is Java and the editor used was Eclipse.
 
 There is three folders containing this project as described bellow:
 
-- lib: The two libraries used by this project, mail and mysql.
-- newyahoo: The content related to client and server side classes. Client side files are contained in the folder y and was primarily designed to be executed as Java applet.
+- lib: Contains the two external libraries used by this project, mail and mysql.
+- newyahoo: The content related to client and server side classes. Client side files are contained inside the folder y and was primarily designed to be executed as Java applet.
 - ny: The content related to server side pages/servlets.
 
 This project depends on a Tomcat server and a MySQL server to works. The database configuration can be done using the two files database_creation.sql and mysql_user_creation.sql.
