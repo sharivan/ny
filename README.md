@@ -17,6 +17,6 @@ There is three folders containing this project as described bellow:
 
 This project depends on a Tomcat server and a MySQL server to works. The database configuration can be done using the two files database_creation.sql and mysql_user_creation.sql.
 
-Due to the support to Java applet plugins for browsers was discontinued many years ago, making impossible to run the client side of this project using a modern browser.
+The support to Java applet plugins for browsers was discontinued many years ago, making impossible to run the client side of this project using a modern browser.
 A possible translation of source files to HTML5/Javascript may be the better choise to make this project viable in the future, but i  have no plan to do that so soon.
 Anyway, these sources are here for study purposes, it is up to you whether you want to continue this project or not.
