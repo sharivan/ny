@@ -1,7 +1,7 @@
 # ny
 New Yahoo!
 
-This is my New Yahoo! implementation, a project started in mid 2007 in order to reproduce the multiplayer online game server of the then Yahoo! Games, but was discontinued shortly thereafter. There is only two games from Yahoo! Games implemented in this project, chequers and pool, but only chequers is functional.
+This is my New Yahoo! implementation, a project started in mid 2007 in order to reproduce and extends the online multiplayer game server from the old Yahoo! Games, but was discontinued shortly thereafter. There is only two games from Yahoo! Games implemented in this project, chequers and pool, but only chequers is functional.
 
 A little demo can be seen at https://www.youtube.com/watch?v=qcP4hzTbonc.
 
